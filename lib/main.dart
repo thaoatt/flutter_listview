@@ -18,6 +18,7 @@ class _MyHomePageState extends State<MyHomePage> {
   final listKey = GlobalKey<AnimatedListState>();
   void _incrementCounter() {
     setState(() {});
+    //
   }
 
   @override
